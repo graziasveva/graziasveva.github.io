@@ -12,28 +12,33 @@ I am specialized in the following knowledge areas:
 <br>
 <br>
 
-<table>
-  <tr>
-    <th>ACTIVITY</th>
-    <th>TECH</th>
-  </tr>
-  <tr>
-    <td>Database Management</td>
-    <td>MySQL/MongoDB</td>
-  </tr>
-  <tr>
-    <td>Data Analysis</td>
-    <td>Python / R / SAS</td>
-  </tr>
-  <tr>
-    <td>Deep learning</td>
-    <td>Python</td>
-  </tr>
-  <tr>
-    <td>Econometric analysis</td>
-    <td>Stata/SAS/R</td>
-  </tr>
+<table style="width: 100%; border-collapse: collapse; text-align: center;">
+  <thead style="background-color: #808080; color: white;">
+    <tr>
+      <th>ACTIVITY</th>
+      <th>TECH</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Database Management</td>
+      <td>MySQL/MongoDB</td>
+    </tr>
+    <tr>
+      <td>Data Analysis</td>
+      <td>Python / R / SAS</td>
+    </tr>
+    <tr>
+      <td>Deep learning</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td>Econometric analysis</td>
+      <td>Stata/SAS/R</td>
+    </tr>
+  </tbody>
 </table>
+
 <br>
 <br>
 
