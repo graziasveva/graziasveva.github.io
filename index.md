@@ -6,7 +6,7 @@ title: "Home"
 
  <br>
  <br>
-Hello! I am Grazia and I am an **economist** specialized in ééintellectual property rights** and **patent analytics**. My work mainly focuses on proposing new solutions to improve information retrieval from patents. I enjoy creating new algorithms to solve economic related problems and I am fond of **natural language processing**. 
+Hello! I am Grazia and I am an **economist** specialized in **intellectual property rights** and **patent analytics**. My work mainly focuses on proposing new solutions to improve information retrieval from patents. I enjoy creating new algorithms to solve economic related problems and I am fond of **natural language processing**. 
 
 I am specialized in the following knowledge areas:
 <br>
