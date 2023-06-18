@@ -16,10 +16,12 @@ I am specialized in the following knowledge areas:
 
  ACTIVITY                                                   |  TECH         
 :----------------------------------------------------------:| :-----------------:
-  Database Management                                        | MySQL/MongoDB     
+  Database Management                                       | MySQL/MongoDB     
   Data Analysis                                             |  Python / R / SAS  
   Deep learning                                             |  Python 
   Econometric analyis                                       |  Stata/SAS/R
+ 
+ 
  <br>
 
 
@@ -27,4 +29,4 @@ Here is my <a href="https://drive.google.com/file/d/112YUHUoFy2QR_uW5TvveAtXzrHZ
 Stay tuned to follow my latest research work and feel free to reach out if you have any questions!
 
 Email: <a href="mailto:graziasveva@gmail.com">graziasveva@gmail.com</a>
-
+ <br>
