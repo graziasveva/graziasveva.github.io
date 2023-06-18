@@ -3,6 +3,4 @@ layout: home
 title: "Home"
 ---
 
-This theme allows an academic person to showcase their research interests, publications, research group, curriculum vitae, any courses that they may be teaching, or anything else they may want to put out into the world.
-
-Academics can use this home page to describe their research interests, display their latest publications, or provide an introduction to their research group.
+Hello! I am Grazia and I am an economist specialized in intellectual property rights and patent analytics. My work mainly focuses on proposing new solutions to improve information retrieval from patents. I enjoy creating new algorithms to solve economic related problems and I am fond of natural language processing. Stay tuned to follow my latest research work!
