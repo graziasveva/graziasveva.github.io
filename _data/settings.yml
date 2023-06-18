@@ -12,6 +12,7 @@ social:
 - {icon: 'github', link: 'https://github.com/graziasveva'}
 - {icon: 'twitter', link: 'https://twitter.com/grazia_sveva'}
 - {icon: 'linkedin', link: 'https://linkedin.com/in/graziasvevaascione'}
+- {icon: 'orcid', link: 'https://orcid.org/my-orcid?orcid=0000-0002-9719-5291'}
 
 contacts:
 - {name: 'Dr. Grazia Sveva Ascione', title: 'Postdoc', department: 'Economics', institution: 'University of Bordeaux', institution_address: '6 Av. Léon Duguit, 33600 Pessac', email: 'graziasveva@gmail.com', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
