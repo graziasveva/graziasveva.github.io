@@ -10,19 +10,44 @@ Hello! I am Grazia and I am an economist specialized in intellectual property ri
 
 I am specialized in the following knowledge areas:
 
-<br>
-<br>
+<style>
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+  }
+  th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+  }
+  th {
+    background-color: #4CAF50;
+    color: white;
+  }
+</style>
 
-
- ACTIVITY                                                   |  TECH         
-:----------------------------------------------------------:| :---------------------:
-  Database Management                                       | MySQL/MongoDB     
-  Data Analysis                                             |  Python / R / SAS  
-  Deep learning                                             |  Python 
-  Econometric analyis                                       |  Stata/SAS/R
- 
- 
- <br>
+<table>
+  <tr>
+    <th>ACTIVITY</th>
+    <th>TECH</th>
+  </tr>
+  <tr>
+    <td>Database Management</td>
+    <td>MySQL/MongoDB</td>
+  </tr>
+  <tr>
+    <td>Data Analysis</td>
+    <td>Python / R / SAS</td>
+  </tr>
+  <tr>
+    <td>Deep learning</td>
+    <td>Python</td>
+  </tr>
+  <tr>
+    <td>Econometric analysis</td>
+    <td>Stata/SAS/R</td>
+  </tr>
+</table>
 
 
 Here is my <a href="https://drive.google.com/file/d/112YUHUoFy2QR_uW5TvveAtXzrHZX3Rbm/view?usp=sharing">resume</a>,
