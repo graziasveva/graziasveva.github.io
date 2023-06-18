@@ -10,21 +10,6 @@ Hello! I am Grazia and I am an economist specialized in intellectual property ri
 
 I am specialized in the following knowledge areas:
 
-<style>
-  table {
-    width: 100%;
-    border-collapse: collapse;
-    text-align: center;
-  }
-  th, td {
-    border: 1px solid #ddd;
-    padding: 8px;
-  }
-  th {
-    background-color: #4CAF50;
-    color: white;
-  }
-</style>
 
 <table>
   <tr>
