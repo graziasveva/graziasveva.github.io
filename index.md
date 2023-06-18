@@ -15,7 +15,7 @@ I am specialized in the following knowledge areas:
 
 
  ACTIVITY                                                   |  TECH         
-:----------------------------------------------------------:| :-----------------:
+:----------------------------------------------------------:| :---------------------:
   Database Management                                       | MySQL/MongoDB     
   Data Analysis                                             |  Python / R / SAS  
   Deep learning                                             |  Python 
