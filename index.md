@@ -43,7 +43,9 @@ I am specialized in the following knowledge areas:
 <br>
 
 Here is my <a href="https://drive.google.com/file/d/112YUHUoFy2QR_uW5TvveAtXzrHZX3Rbm/view?usp=sharing">resume</a>,
-Stay tuned to follow my latest research work and feel free to reach out if you have any questions!
+<br>
+<br>
+stay tuned to follow my latest research work and feel free to reach out if you have any questions!
 
 Email: <a href="mailto:graziasveva@gmail.com">graziasveva@gmail.com</a>
  <br>
