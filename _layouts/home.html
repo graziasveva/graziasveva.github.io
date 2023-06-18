@@ -1,9 +1,14 @@
 ---
 layout: default
 ---
+
 <style>
 .round-shape {
   border-radius: 50%;
+  margin-left: 20%;
+}
+.logo {
+  margin-left: 20%;
 }
 </style>
 
@@ -13,11 +18,9 @@ layout: default
     {{ content }}
   </div>
   <div class="col-md-6">
-    <img src="{{ site.github.url }}/assets/img/profilepic.jpeg" alt="Home" width="70%"  class="round-shape">
-    <img src="{{ site.github.url }}/assets/img/graziasveva.png" alt="Logo" width="50%">
-
+    <img src="{{ site.github.url }}/assets/img/profilepic.jpeg" alt="Home" width="50%"  class="round-shape">
+    <img src="{{ site.github.url }}/assets/img/graziasveva.png" alt="Logo" width="50%" class="logo">
   </div>
 </div>
-
 
 {% include publications.html %}
