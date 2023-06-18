@@ -20,9 +20,6 @@ I am specialized in the following knowledge areas:
   Data Analysis                                             |  Python / R / SAS  
   Deep learning                                             |  Python 
   Econometric analyis                                       |  Stata/SAS/R
-  Photography                                               |         
-  Travel Planning                                           |    
-
  <br>
 
 
