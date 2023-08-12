@@ -2,7 +2,7 @@
 layout: blog
 title: "Blog"
 ---
-# Blog
+# All about patent analytics and artificial intelligence
 
 Here are my latest posts:
 
