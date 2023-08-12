@@ -3,6 +3,7 @@ menu:
 - {name: 'courses', url: '/courses'}
 - {name: 'cv', url: '/cv'}
 - {name: 'contact', url: '/contact'}
+- {name: 'blog', url: '/blog'}
 
 
 courses:
