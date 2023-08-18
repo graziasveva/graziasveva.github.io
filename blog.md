@@ -1,6 +1,6 @@
 ---
 layout: blog
-title: "Blog"
+title: ""
 ---
 # All about patent analytics and artificial intelligence
 
