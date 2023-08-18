@@ -2,3 +2,8 @@
 ---
 
 @import "main";
+.fire-gif {
+    height: 1em; /* Adjusts the image height to match the line height of the surrounding text */
+    width: auto; /* Ensures the image maintains its aspect ratio */
+    vertical-align: middle; /* Aligns the middle of the image with the middle of the line height */
+}
