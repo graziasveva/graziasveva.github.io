@@ -2,7 +2,7 @@
 layout: blog
 title: "Blog"
 ---
-
+ #Welcome to my blog!
 
 Here are my latest posts:
 
