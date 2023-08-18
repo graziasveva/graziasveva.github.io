@@ -1,8 +1,8 @@
 ---
 layout: blog
-title: ""
+title: "All about patent analytics and artificial intelligence"
 ---
-# All about patent analytics and artificial intelligence
+
 
 Here are my latest posts:
 
