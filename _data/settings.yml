@@ -19,4 +19,4 @@ social:
 
 
 contacts:
-- {name: 'Dr. Grazia Sveva Ascione', title: 'Postdoc', department: 'Economics', institution: 'University of Bordeaux', institution_address: '6 Av. Léon Duguit, 33600 Pessac', email: 'graziasveva@gmail.com', office: 'Science Building 505', image: 'assets/img/contact.jpg'}
+- {name: 'Dr. Grazia Sveva Ascione', title: 'Postdoc', department: 'Economics', institution: 'University of Bordeaux', institution_address: '6 Av. Léon Duguit, 33600 Pessac', email: 'graziasveva@gmail.com', image: 'assets/img/contact.jpg'}
