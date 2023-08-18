@@ -9,5 +9,5 @@ Here are my latest posts:
 
 
 {% for post in site.posts %}
-* [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }} ![Fire GIF]({{ site.baseurl }}/assets/img/calci.gif)
+* [{{ post.title }}]({{ post.url }}) - {{ post.date | date: "%B %d, %Y" }} ![Fire GIF]({{ site.baseurl }}/assets/img/calci.gif){: .fire-gif}
 {% endfor %}
