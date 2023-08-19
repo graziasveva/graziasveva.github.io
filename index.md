@@ -25,7 +25,7 @@ I am specialized in the following knowledge areas:
 
   th {
     border-bottom: 2px solid black;
-    background-color: transparent !important;
+    background-color: transparent;
   }
 
   .tech-label {
@@ -37,10 +37,18 @@ I am specialized in the following knowledge areas:
   .tech-content {
     text-align: center;
   }
+
+  .tech-row {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+  }
+
 </style>
 
-<table style="width: 100%; border-collapse: collapse; text-align: center;">
-  <thead style="background-color: #808080; color: white;">
+<table style="width: 100%; border-collapse: collapse;">
+  <thead>
     <tr>
       <th>SKILL</th>
       <th>TECH</th>
@@ -49,30 +57,32 @@ I am specialized in the following knowledge areas:
   <tbody>
     <tr>
       <td style="font-weight: bold;">Database</td>
-      <td class="tech-content">MySQL<br>MongoDB</td>
+      <td class="tech-content">
+        <div class="tech-row">MySQL</div>
+        <div class="tech-row">MongoDB</div>
+      </td>
     </tr>
     <tr>
       <td style="font-weight: bold;">Data Analysis</td>
       <td class="tech-content">
-        <div>
-          Python <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 2em; vertical-align: middle;" />
-        </div>
-        <div>
-          / R / SAS
-        </div>
+        <div class="tech-row">Python <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 2em;" /></div>
+        <div class="tech-row">R</div>
+        <div class="tech-row">SAS</div>
       </td>
     </tr>
     <tr>
-      <td style="font-weight: bold;"> ML & Deep learning</td>
+      <td style="font-weight: bold;">ML & Deep learning</td>
       <td class="tech-content">
-        <div>
-          Python <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 2em; vertical-align: middle;" />
-        </div>
+        <div class="tech-row">Python <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 2em;" /></div>
       </td>
     </tr>
     <tr>
       <td style="font-weight: bold;">Econometric analysis</td>
-      <td class="tech-content">Stata/SAS/R</td>
+      <td class="tech-content">
+        <div class="tech-row">Stata</div>
+        <div class="tech-row">SAS</div>
+        <div class="tech-row">R</div>
+      </td>
     </tr>
   </tbody>
 </table>
