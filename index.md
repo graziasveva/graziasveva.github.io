@@ -15,22 +15,27 @@ I am specialized in the following knowledge areas:
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
   <thead style="background-color: #808080; color: white;">
     <tr>
-      <th>ACTIVITY</th>
+      <th>SKILL</th>
       <th>TECH</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="font-weight: bold;">Database Management</td>
+      <td style="font-weight: bold;">Database</td>
       <td>MySQL/MongoDB</td>
     </tr>
     <tr>
       <td style="font-weight: bold;">Data Analysis</td>
-      <td>Python <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 2em; vertical-align: middle;" /> / R / SAS</td>
+      <td>
+        Python <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 2em; vertical-align: middle;" /><br>
+        R / SAS
+      </td>
     </tr>
     <tr>
-      <td style="font-weight: bold;">Deep learning</td>
-      <td>Python <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 2em; vertical-align: middle;" /></td>
+      <td style="font-weight: bold;"> ML & Deep learning</td>
+      <td>
+        Python <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 2em; vertical-align: middle;" />
+      </td>
     </tr>
     <tr>
       <td style="font-weight: bold;">Econometric analysis</td>
