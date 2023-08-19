@@ -19,11 +19,11 @@ I am specialized in the following knowledge areas:
   }
 
   table {
-    background-color: transparent;
+    background-color: #f5f9f7;
   }
 
   th {
-    border-bottom: 2px solid black;
+    border-bottom: 3px solid black;
     background-color: transparent !important; /* Using !important to ensure it overrides other styles if any */
   }
 
