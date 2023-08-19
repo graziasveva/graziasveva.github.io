@@ -15,12 +15,15 @@ I am specialized in the following knowledge areas:
 
 <style>
   td, th {
-    vertical-align: middle; 
-    padding: 8px 12px; 
+    vertical-align: middle;
+    padding: 8px 12px;
+    text-align: center; /* Align content to center */
   }
 
   table {
-    background-color: #f5f9f7; 
+    width: 100%;
+    border-collapse: collapse;
+    background-color: #f5f9f7; /* light greyish green */
   }
 
   th {
@@ -47,7 +50,7 @@ I am specialized in the following knowledge areas:
 
 </style>
 
-<table style="width: 100%; border-collapse: collapse;">
+<table>
   <thead>
     <tr>
       <th>SKILL</th>
