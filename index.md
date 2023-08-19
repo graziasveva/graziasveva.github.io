@@ -12,30 +12,35 @@ I am specialized in the following knowledge areas:
 <br>
 <br>
 
+
 <style>
   td, th {
     vertical-align: middle; 
-    padding: 8px 12px; /* top/bottom and left/right padding respectively */
+    padding: 8px 12px; 
   }
 
   table {
-    background-color: #f5f9f7;
+    background-color: #f5f9f7; 
   }
 
   th {
-    border-bottom: 3px solid black;
-    background-color: transparent !important; /* Using !important to ensure it overrides other styles if any */
+    border-bottom: 2px solid black;
+    background-color: transparent !important;
   }
 
   .tech-label {
     display: inline-block;
     vertical-align: middle;
-    margin-right: 8px; /* Adjust as per your preference */
+    margin-right: 8px;
+  }
+
+  .tech-content {
+    text-align: center;
   }
 </style>
 
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
-  <thead>
+  <thead style="background-color: #808080; color: white;">
     <tr>
       <th>SKILL</th>
       <th>TECH</th>
@@ -44,28 +49,35 @@ I am specialized in the following knowledge areas:
   <tbody>
     <tr>
       <td style="font-weight: bold;">Database</td>
-      <td><span class="tech-label">MySQL</span>/MongoDB</td>
+      <td class="tech-content">MySQL<br>MongoDB</td>
     </tr>
     <tr>
       <td style="font-weight: bold;">Data Analysis</td>
-      <td>
-        <span class="tech-label">Python</span> <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 2em; vertical-align: middle;" /><br>
-        R<br>
-        SAS
+      <td class="tech-content">
+        <div>
+          Python <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 2em; vertical-align: middle;" />
+        </div>
+        <div>
+          / R / SAS
+        </div>
       </td>
     </tr>
     <tr>
       <td style="font-weight: bold;"> ML & Deep learning</td>
-      <td>
-        <span class="tech-label">Python</span> <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 2em; vertical-align: middle;" />
+      <td class="tech-content">
+        <div>
+          Python <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 2em; vertical-align: middle;" />
+        </div>
       </td>
     </tr>
     <tr>
       <td style="font-weight: bold;">Econometric analysis</td>
-      <td>Stata/SAS/R</td>
+      <td class="tech-content">Stata/SAS/R</td>
     </tr>
   </tbody>
 </table>
+
+
 
 <br>
 <br>
