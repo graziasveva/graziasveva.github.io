@@ -12,6 +12,13 @@ I am specialized in the following knowledge areas:
 <br>
 <br>
 
+<style>
+  td, th {
+    vertical-align: middle; 
+    padding: 8px 12px; /* top/bottom and left/right padding respectively */
+  }
+</style>
+
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
   <thead style="background-color: #808080; color: white;">
     <tr>
@@ -28,7 +35,8 @@ I am specialized in the following knowledge areas:
       <td style="font-weight: bold;">Data Analysis</td>
       <td>
         Python <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 2em; vertical-align: middle;" /><br>
-        / R / SAS
+        R<br>
+        SAS
       </td>
     </tr>
     <tr>
