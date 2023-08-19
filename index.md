@@ -23,12 +23,12 @@ I am specialized in the following knowledge areas:
   table {
     width: 100%;
     border-collapse: collapse;
-    background-color: #f5f9f7; /* light greyish green */
+    background-color: transparent !important;
   }
 
   th {
     border-bottom: 2px solid black;
-    background-color: transparent;
+    background-color: transparent !important;
   }
 
   .tech-label {
