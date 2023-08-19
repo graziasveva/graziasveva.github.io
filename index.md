@@ -26,11 +26,11 @@ I am specialized in the following knowledge areas:
     </tr>
     <tr>
       <td style="font-weight: bold;">Data Analysis</td>
-      <td>Python <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 1em; vertical-align: middle;" /> / R / SAS</td>
+      <td>Python <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 2em; vertical-align: middle;" /> / R / SAS</td>
     </tr>
     <tr>
       <td style="font-weight: bold;">Deep learning</td>
-      <td>Python <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 1em; vertical-align: middle;" /></td>
+      <td>Python <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 2em; vertical-align: middle;" /></td>
     </tr>
     <tr>
       <td style="font-weight: bold;">Econometric analysis</td>
