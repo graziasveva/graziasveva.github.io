@@ -28,7 +28,7 @@ I am specialized in the following knowledge areas:
 
   th {
     border-bottom: 2px solid black;
-    background-color: transparent !important;
+    background-color: #f0f0f0 !important;
   }
 
   .tech-label {
