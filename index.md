@@ -28,7 +28,7 @@ I am specialized in the following knowledge areas:
       <td style="font-weight: bold;">Data Analysis</td>
       <td>
         Python <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 2em; vertical-align: middle;" /><br>
-        R / SAS
+        / R / SAS
       </td>
     </tr>
     <tr>
