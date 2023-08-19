@@ -24,11 +24,18 @@ I am specialized in the following knowledge areas:
 
   th {
     border-bottom: 2px solid black;
+    background-color: transparent !important; /* Using !important to ensure it overrides other styles if any */
+  }
+
+  .tech-label {
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: 8px; /* Adjust as per your preference */
   }
 </style>
 
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
-  <thead style="background-color: #808080; color: white;">
+  <thead>
     <tr>
       <th>SKILL</th>
       <th>TECH</th>
@@ -37,12 +44,12 @@ I am specialized in the following knowledge areas:
   <tbody>
     <tr>
       <td style="font-weight: bold;">Database</td>
-      <td>MySQL/MongoDB</td>
+      <td><span class="tech-label">MySQL</span>/MongoDB</td>
     </tr>
     <tr>
       <td style="font-weight: bold;">Data Analysis</td>
       <td>
-        Python <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 2em; vertical-align: middle;" /><br>
+        <span class="tech-label">Python</span> <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 2em; vertical-align: middle;" /><br>
         R<br>
         SAS
       </td>
@@ -50,7 +57,7 @@ I am specialized in the following knowledge areas:
     <tr>
       <td style="font-weight: bold;"> ML & Deep learning</td>
       <td>
-        Python <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 2em; vertical-align: middle;" />
+        <span class="tech-label">Python</span> <img src="{{ site.github.url }}/assets/img/python.gif" alt="Python Logo" style="height: 2em; vertical-align: middle;" />
       </td>
     </tr>
     <tr>
