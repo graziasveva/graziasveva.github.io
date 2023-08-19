@@ -21,19 +21,19 @@ I am specialized in the following knowledge areas:
   </thead>
   <tbody>
     <tr>
-      <td>Database Management</td>
+      <td>**Database Management**</td>
       <td>MySQL/MongoDB</td>
     </tr>
     <tr>
-      <td>Data Analysis</td>
+      <td>**Data Analysis**</td>
       <td>Python / R / SAS</td>
     </tr>
     <tr>
-      <td>Deep learning</td>
+      <td>**Deep learning**</td>
       <td>Python</td>
     </tr>
     <tr>
-      <td>Econometric analysis</td>
+      <td>**Econometric analysis**</td>
       <td>Stata/SAS/R</td>
     </tr>
   </tbody>
