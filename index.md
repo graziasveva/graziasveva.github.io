@@ -17,6 +17,14 @@ I am specialized in the following knowledge areas:
     vertical-align: middle; 
     padding: 8px 12px; /* top/bottom and left/right padding respectively */
   }
+
+  table {
+    background-color: transparent;
+  }
+
+  th {
+    border-bottom: 2px solid black;
+  }
 </style>
 
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
