@@ -2,7 +2,11 @@
 layout: default
 ---
 
-<div class="row g-5 mb-5 {{ page.classes }}">
+{% if page.black_background %}
+<div class="row g-5 mb-5" style="background-color: black; color: white;">
+{% else %}
+<div class="row g-5 mb-5">
+{% endif %}
   <div class="col-md-12">
     <h3 class="fw-bold border-bottom pb-3 mb-5">{{ page.title }}</h3>
     {{ content }}
