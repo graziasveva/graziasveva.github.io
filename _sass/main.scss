@@ -43,23 +43,15 @@ tbody, td, tfoot, th, thead, tr {
     line-height: 3rem;
 }
 
-/* This targets the main content of your post */
-.black-background-post .post-content {
-    background-color: black;
-    color: white;
-}
-
-/* This targets links within your post, making them stand out against the black background */
-.black-background-post .post-content a {
+/* This targets links within posts that have a black background */
+.row[style*="background-color: black"] a {
     color: #ffffff;  /* or any light color you prefer */
     border-bottom: 2px solid white;
 }
 
-.black-background-post .post-content a:hover {
+.row[style*="background-color: black"] a:hover {
     color: #dddddd; /* slightly darker color on hover */
     background-color: transparent;
     border-bottom: 2px solid #dddddd;
 }
-
- 
 
