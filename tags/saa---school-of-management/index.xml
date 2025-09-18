@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SAA - School of Management | Daniel Souza</title>
+    <link>http://localhost:1313/tags/saa---school-of-management/</link>
+      <atom:link href="http://localhost:1313/tags/saa---school-of-management/index.xml" rel="self" type="application/rss+xml" />
+    <description>SAA - School of Management</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_84232612148bca32.png</url>
+      <title>SAA - School of Management</title>
+      <link>http://localhost:1313/tags/saa---school-of-management/</link>
+    </image>
+    
+    <item>
+      <title>Microeconomics</title>
+      <link>http://localhost:1313/teaching/micro_saa/</link>
+      <pubDate>Sun, 01 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/micro_saa/</guid>
+      <description>&lt;p&gt;The course is an introduction to the economic analysis through the study of elementary microeconomic principles. Consumer decisions and firm choices are presented and discussed to understand market based systems and, particularly, price formation and efficiency.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

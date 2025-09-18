@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rural Entrepreneurship | Daniel Souza</title>
+    <link>http://localhost:1313/tags/rural-entrepreneurship/</link>
+      <atom:link href="http://localhost:1313/tags/rural-entrepreneurship/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rural Entrepreneurship</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 19 Jul 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_84232612148bca32.png</url>
+      <title>Rural Entrepreneurship</title>
+      <link>http://localhost:1313/tags/rural-entrepreneurship/</link>
+    </image>
+    
+    <item>
+      <title>Empirical Analysis of Quantity and Quality of Rural Entrepreneurship in France, Germany and UK: Understanding Key Enabling Factors</title>
+      <link>http://localhost:1313/work-in-progress/souza_colombo_sasso_et_al_2025/</link>
+      <pubDate>Sat, 19 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/work-in-progress/souza_colombo_sasso_et_al_2025/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

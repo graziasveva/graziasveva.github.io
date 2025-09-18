@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Firm Choice | Daniel Souza</title>
+    <link>http://localhost:1313/tags/firm-choice/</link>
+      <atom:link href="http://localhost:1313/tags/firm-choice/index.xml" rel="self" type="application/rss+xml" />
+    <description>Firm Choice</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 26 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu1765442434206927891.png</url>
+      <title>Firm Choice</title>
+      <link>http://localhost:1313/tags/firm-choice/</link>
+    </image>
+    
+    <item>
+      <title>Microeconomics</title>
+      <link>http://localhost:1313/teaching/micro_unito/</link>
+      <pubDate>Fri, 26 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/micro_unito/</guid>
+      <description>&lt;p&gt;The course is an introduction to economic analysis through elementary microeconomics. Consumer decisions and firm choices are presented and discussed aiming at the understanding of a free market based system, particularly price formation and efficiency.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

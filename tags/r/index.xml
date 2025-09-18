@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R | Daniel Souza</title>
+    <link>http://localhost:1313/tags/r/</link>
+      <atom:link href="http://localhost:1313/tags/r/index.xml" rel="self" type="application/rss+xml" />
+    <description>R</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Aug 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu1765442434206927891.png</url>
+      <title>R</title>
+      <link>http://localhost:1313/tags/r/</link>
+    </image>
+    
+    <item>
+      <title>Econometrics</title>
+      <link>http://localhost:1313/teaching/econometrics_unito/</link>
+      <pubDate>Tue, 01 Aug 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/econometrics_unito/</guid>
+      <description>&lt;p&gt;This course introduces students to linear regression and nonlinear models used in empirical economic analysis.  Students will model simple applications using R statistical software on a variety of datasets.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

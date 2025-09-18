@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Macroeconomics | Daniel Souza</title>
+    <link>http://localhost:1313/tags/macroeconomics/</link>
+      <atom:link href="http://localhost:1313/tags/macroeconomics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Macroeconomics</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu_84232612148bca32.png</url>
+      <title>Macroeconomics</title>
+      <link>http://localhost:1313/tags/macroeconomics/</link>
+    </image>
+    
+    <item>
+      <title>Macroeconomics</title>
+      <link>http://localhost:1313/teaching/macro_unito/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/macro_unito/</guid>
+      <description>&lt;p&gt;Introduction to macroeconomic tools and models to analyze economic systems and key variables like GDP, employment, consumption, and inflation.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

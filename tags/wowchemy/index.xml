@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wowchemy | Daniel Souza</title>
+    <link>http://localhost:1313/tags/wowchemy/</link>
+      <atom:link href="http://localhost:1313/tags/wowchemy/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wowchemy</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sat, 26 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu1765442434206927891.png</url>
+      <title>Wowchemy</title>
+      <link>http://localhost:1313/tags/wowchemy/</link>
+    </image>
+    
+    <item>
+      <title>scikit-learn</title>
+      <link>http://localhost:1313/teaching/scikit-copy-3/</link>
+      <pubDate>Sat, 26 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/scikit-copy-3/</guid>
+      <description>&lt;p&gt;scikit-learn is a Python module for machine learning built on top of SciPy and is distributed under the 3-Clause BSD license.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

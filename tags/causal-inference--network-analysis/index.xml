@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Causal Inference &amp; Network Analysis | Daniel Souza</title>
+    <link>http://localhost:1313/tags/causal-inference--network-analysis/</link>
+      <atom:link href="http://localhost:1313/tags/causal-inference--network-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <description>Causal Inference &amp; Network Analysis</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Feb 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu1765442434206927891.png</url>
+      <title>Causal Inference &amp; Network Analysis</title>
+      <link>http://localhost:1313/tags/causal-inference--network-analysis/</link>
+    </image>
+    
+    <item>
+      <title>Business Data Analytics</title>
+      <link>http://localhost:1313/teaching/bda/</link>
+      <pubDate>Wed, 19 Feb 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/teaching/bda/</guid>
+      <description>&lt;h2 id=&#34;syllabus&#34;&gt;Syllabus&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;Introduzione ai metodi causali per l’inferenza statistica applicata all’economia e al management.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Teoria degli studi controllati randomizzati&lt;/li&gt;
+&lt;li&gt;Metodi per l’identificazione e la stima degli effetti causali&lt;/li&gt;
+&lt;li&gt;Variabili strumentali&lt;/li&gt;
+&lt;li&gt;Regression discontinuity design&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Introduzione alla teoria dei network, con particolare riferimento agli ambiti di management, organizzazione e per lo studio delle reti tra imprese e dei fattori d’instabilità nei sistemi economici, industriali e finanziari:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Definizione concettuale ed algebrica di un network&lt;/li&gt;
+&lt;li&gt;Misure globali e locali&lt;/li&gt;
+&lt;li&gt;Algoritmi di centralità&lt;/li&gt;
+&lt;li&gt;Clustering, community detection, struttura core-periphery&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;I metodi e gli argomenti saranno illustrati usando dataset per applicazioni in ambito management ed economia. A questo fine sarà utilizzato il software libero per l’analisi statistica R (scaricabile da 
+ ) con tutorial esemplificativi illustrati durante le sessioni di laboratorio. Ciascuna esercitazione sarà effettuata a valle delle lezioni teoriche in modo da consentire allo studente la comprensione dell’applicabilità dei modelli studiati.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
